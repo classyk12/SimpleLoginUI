@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "632644033629",
+    "firebase_url": "https://flutterfiretest-a477e.firebaseio.com",
+    "project_id": "flutterfiretest-a477e",
+    "storage_bucket": "flutterfiretest-a477e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632644033629:android:d580dd88a9257d0b6e41b4",
+        "android_client_info": {
+          "package_name": "com.example.simpleloginui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632644033629-dp83f4gvr39fcv5mppe37rfh15smnda2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKpzqYaD293hx7CDfmhp6RrYR16cmLrZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632644033629-dp83f4gvr39fcv5mppe37rfh15smnda2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
